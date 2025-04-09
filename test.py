@@ -3,3 +3,4 @@ def calc():
     return x
 
 print(calc())
+print("123")
